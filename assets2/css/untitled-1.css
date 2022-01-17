@@ -1,0 +1,8 @@
+body {
+  background: url("../../assets/img/photo-1612287230202-1ff1d85d1bdf.avif") center / cover no-repeat, rgba(255,193,7,0);
+  width: auto;
+  max-height: none;
+  height: auto;
+  filter: blur(0px);
+}
+
